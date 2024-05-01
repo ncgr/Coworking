@@ -1,15 +1,14 @@
 --- 
-title: "NCGR Bioinformatics Workshops"
+title: "Rodeo Park Coworking Studios"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
- This is the material offered by NCGR in collaboration
-  with NM-INBRE.
+ Website for our Coworking spaces.
 link-citations: yes
-github-repo: ncgr/INBRE-Bookdown
+github-repo: ncgr/Coworking
 ---
 
 
@@ -18,7 +17,7 @@ github-repo: ncgr/INBRE-Bookdown
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
 https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-© 2023 National Center for Genome Resources
+© 2024 National Center for Genome Resources
 
 <br>
 
